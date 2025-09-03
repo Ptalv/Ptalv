@@ -11,6 +11,5 @@
 - **Data Science & ML:** pipelines de ML, modelos predictivos, análisis estadístico, pruebas de correlación  
 - **Visualización:** Matplotlib, Seaborn  
 - **Bases de datos:** MySQL, PostgreSQL  
-- **Herramientas:** Git | GitHub (control de versiones) | Excel (importación y análisis de datos)  
 
 
