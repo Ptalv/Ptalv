@@ -54,7 +54,7 @@
   <td width="50%">
     <h3 align="center">📂 Megaline Tariff Analysis</h3>
     <p align="center">
-      <a href="https://github.com/Ptalv/megaline-tariff-analysis">
+      <a href="https://github.com/Ptalv/megaline-tarifas-analisis">
         <img src="https://img.shields.io/badge/Repo-Link-blue?style=for-the-badge&logo=github" alt="repo link"/>
       </a>
     </p>
