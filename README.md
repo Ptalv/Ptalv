@@ -65,6 +65,22 @@
     </p>
   </td>
 </tr>
+<tr>
+  <td width="50%">
+    <h3 align="center">📂 Titanic Survival Prediction</h3>
+    <p align="center">
+      <a href="https://github.com/Ptalv/titanic-optuna-lightgbm">
+        <img src="https://img.shields.io/badge/Repo-Link-blue?style=for-the-badge&logo=github" alt="repo link"/>
+      </a>
+    </p>
+    <p>
+      🔹 Proyecto de clasificación binaria basado en el clásico dataset de Kaggle.  
+      🔹 Optimización de hiperparámetros con <b>Optuna</b> y modelado con <b>LightGBM</b>.  
+      🔹 Implementación de <b>SMOTE</b> para balancear clases y pipeline completo de preprocesamiento.  
+      🔹 Logró una <b>Accuracy del 80%</b> y un <b>AUC-ROC de 0.78</b> en validación.  
+    </p>
+  </td>
+</tr>
 </table>
 
 ---
