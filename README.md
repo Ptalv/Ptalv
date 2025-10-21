@@ -23,7 +23,8 @@
 
 <table>
 <tr>
-  <td width="50%">
+  <!-- Proyecto 1 -->
+  <td width="50%" valign="top">
     <h3 align="center">📂 Telecom Churn Prediction</h3>
     <p align="center">
       <a href="https://github.com/Ptalv/telecom-churn-prediction">
@@ -33,10 +34,12 @@
     <p>
       🔹 Pipeline de Machine Learning de inicio a fin para predecir la baja de clientes.  
       🔹 Preprocesamiento, balanceo con SMOTE y modelado con LightGBM.  
-      🔹 Alcanzó un **AUC-ROC de 0.91** y optimización con GridSearchCV.
+      🔹 Alcanzó un <b>AUC-ROC de 0.91</b> y optimización con GridSearchCV.
     </p>
   </td>
-  <td width="50%">
+
+  <!-- Proyecto 2 -->
+  <td width="50%" valign="top">
     <h3 align="center">📂 Car Price Prediction</h3>
     <p align="center">
       <a href="https://github.com/Ptalv/car-price-prediction">
@@ -50,8 +53,10 @@
     </p>
   </td>
 </tr>
+
 <tr>
-  <td width="50%">
+  <!-- Proyecto 3 -->
+  <td width="50%" valign="top">
     <h3 align="center">📂 Megaline Tariff Analysis</h3>
     <p align="center">
       <a href="https://github.com/Ptalv/megaline-tarifas-analisis">
@@ -61,12 +66,12 @@
     <p>
       🔹 Análisis del comportamiento de clientes para planes Surf y Ultimate.  
       🔹 Estadística descriptiva, histogramas comparativos y cálculo de ingresos.  
-      🔹 Pruebas de hipótesis (t-test) para comparar rentabilidad entre planes.
+      🔹 Pruebas de hipótesis (<i>t-test</i>) para comparar rentabilidad entre planes.
     </p>
   </td>
-</tr>
-<tr>
-  <td width="50%">
+
+  <!-- Proyecto 4 -->
+  <td width="50%" valign="top">
     <h3 align="center">📂 Titanic Survival Prediction</h3>
     <p align="center">
       <a href="https://github.com/Ptalv/titanic-optuna-lightgbm">
@@ -77,12 +82,11 @@
       🔹 Proyecto de clasificación binaria basado en el clásico dataset de Kaggle.  
       🔹 Optimización de hiperparámetros con <b>Optuna</b> y modelado con <b>LightGBM</b>.  
       🔹 Implementación de <b>SMOTE</b> para balancear clases y pipeline completo de preprocesamiento.  
-      🔹 Logró una <b>Accuracy del 80%</b> y un <b>AUC-ROC de 0.78</b> en validación.  
+      🔹 Logró una <b>Accuracy del 80%</b> y un <b>AUC-ROC de 0.78</b> en validación.
     </p>
   </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
