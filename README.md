@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 Sobre mí
-- 🎓 Actualmente curso el **7º cuatrimestre de Ingeniería en Sistemas Computacionales**.  
+- 🎓 Actualmente curso el **8º cuatrimestre de Ingeniería en Sistemas Computacionales**.  
 - 📊 He trabajado en proyectos aplicados de **predicción de churn, análisis de clientes y modelos de pricing**, utilizando ciencia de datos como herramienta estratégica.  
 - 💻 Experiencia práctica en **EDA (análisis exploratorio de datos)**, manejo de **datasets complejos** y creación de pipelines de **machine learning** para clasificación y regresión.  
 - 🔎 Interés en combinar **estadística aplicada, optimización de modelos y visualización clara de métricas** para transformar datos en decisiones accionables.  
