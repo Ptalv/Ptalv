@@ -47,10 +47,10 @@
       </a>
     </p>
     <p>
-      🔹 Recomendador de música usando *K-Nearest Neighbors (similitud coseno)* con metadata de Spotify.  
+      🔹 Recomendador de música usando **K-Nearest Neighbors (similitud coseno)** con metadata de Spotify.  
       🔹 Demo interactiva en *Streamlit* con likes persistentes y control Top-N.  
-      🔹 Incluye análisis exploratorio y storytelling del catálogo en *Tableau Public*, con clusters generados offline (*KMeans*) y embeddings de géneros clave (*TF-IDF*).  
-      🔹 Permite exportar recomendaciones a *CSV* para análisis downstream.
+      🔹 Incluye análisis exploratorio y storytelling del catálogo en **Tableau Public**, con clusters generados offline (**KMeans**) y embeddings de géneros clave (**TF-IDF**).  
+      🔹 Permite exportar recomendaciones a **CSV**
     </p>
 
   </td>
