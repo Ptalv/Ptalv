@@ -1,7 +1,7 @@
 <!-- Banner superior -->
 <div align="center">
   <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header&text=Hola!%20soy%20Pedro%20Álvarez%20:)&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+       src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header&text=Hola!%20soy%20Pedro%20Alvarez&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 ---
@@ -39,23 +39,24 @@
   </td>
 
   <!-- Proyecto 2 -->
-<td width="50%" valign="top">
-  <h3 align="center">🎧 Music Recommender (KNN) + Tableau Dashboard</h3>
-  <p align="center">
-    <a href="https://github.com/Ptalv/Recomendador-de-Musica-Streamlit-Demo-Tableau-">
-      <img src="https://img.shields.io/badge/Repo-Ver%20Proyecto-blue?style=for-the-badge&logo=github" alt="repo link"/>
-    </a>
-  </p>
-  <p>
-    🔹 Recomendador de música usando **K-Nearest Neighbors (similitud coseno)** con metadata de Spotify.  
-    🔹 Demo interactiva en **Streamlit** con likes persistentes y control Top-N.  
-    🔹 Incluye análisis exploratorio y storytelling del catálogo en **Tableau Public**, con clusters generados offline (**KMeans**) y embeddings de géneros clave (**TF-IDF**).  
-    🔹 Permite exportar recomendaciones a **CSV** para análisis downstream.
-  </p>
-  <p align="center">
-    <img src="DashboardSS.png" width="90%" style="border-radius:12px; box-shadow:0 0 8px rgba(0,0,0,0.4);" alt="Dashboard preview"/>
-  </p>
-</td>
+  <td width="50%" valign="top">
+    <h3 align="center">🎧 Music Recommender (KNN) + Tableau Dashboard</h3>
+    <p align="center">
+      <a href="https://github.com/Ptalv/Recomendador-de-Musica-Streamlit-Demo-Tableau-">
+        <img src="https://img.shields.io/badge/Repo-Ver%20Proyecto-blue?style=for-the-badge&logo=github" alt="repo link"/>
+      </a>
+    </p>
+    <p>
+      🔹 Recomendador de música usando **K-Nearest Neighbors (similitud coseno)** con metadata de Spotify.  
+      🔹 Demo interactiva en **Streamlit** con likes persistentes y control Top-N.  
+      🔹 Incluye análisis exploratorio y storytelling del catálogo en **Tableau Public**, con clusters generados offline (**KMeans**) y embeddings de géneros clave (**TF-IDF**).  
+      🔹 Permite exportar recomendaciones a **CSV** para análisis downstream.
+    </p>
+    <p align="center">
+      <img src="DashboardSS.png" width="90%" style="border-radius:12px; box-shadow:0 0 8px rgba(0,0,0,0.4);" alt="Dashboard preview"/>
+    </p>
+  </td>
+</tr>
 
 <tr>
   <!-- Proyecto 3 -->
@@ -90,25 +91,26 @@
   </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
 #### 🔧 Lenguajes
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=database&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00f.svg?style=for-the-badge&logo=database&logoColor=white)
 
 #### 📚 Librerías de Data Science
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-006600.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF.svg?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🛠 Herramientas
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
