@@ -39,20 +39,23 @@
   </td>
 
   <!-- Proyecto 2 -->
-  <td width="50%" valign="top">
-    <h3 align="center">📂 Car Price Prediction</h3>
-    <p align="center">
-      <a href="https://github.com/Ptalv/car-price-prediction">
-        <img src="https://img.shields.io/badge/Repo-Link-blue?style=for-the-badge&logo=github" alt="repo link"/>
-      </a>
-    </p>
-    <p>
-      🔹 Modelos de regresión para estimar precios de autos usados.  
-      🔹 Comparación entre Linear Regression, Random Forest y LightGBM.  
-      🔹 Incluye EDA con Sweetviz y codificación de variables categóricas.
-    </p>
-  </td>
-</tr>
+<td width="50%" valign="top">
+  <h3 align="center">🎧 Music Recommender (KNN) + Tableau Dashboard</h3>
+  <p align="center">
+    <a href="https://github.com/Ptalv/Recomendador-de-Musica-Streamlit-Demo-Tableau-">
+      <img src="https://img.shields.io/badge/Repo-Ver%20Proyecto-blue?style=for-the-badge&logo=github" alt="repo link"/>
+    </a>
+  </p>
+  <p>
+    🔹 Recomendador de música usando **K-Nearest Neighbors (similitud coseno)** con metadata de Spotify.  
+    🔹 Demo interactiva en **Streamlit** con likes persistentes y control Top-N.  
+    🔹 Incluye análisis exploratorio y storytelling del catálogo en **Tableau Public**, con clusters generados offline (**KMeans**) y embeddings de géneros clave (**TF-IDF**).  
+    🔹 Permite exportar recomendaciones a **CSV** para análisis downstream.
+  </p>
+  <p align="center">
+    <img src="DashboardSS.png" width="90%" style="border-radius:12px; box-shadow:0 0 8px rgba(0,0,0,0.4);" alt="Dashboard preview"/>
+  </p>
+</td>
 
 <tr>
   <!-- Proyecto 3 -->
